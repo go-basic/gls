@@ -1,8 +1,3 @@
-# gls
-goroutine local storage
-
-# demo
-```
 package main
 
 import (
@@ -27,5 +22,3 @@ func main() {
 	}
 	wg.Wait()
 }
-
-```
